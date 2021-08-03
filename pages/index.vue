@@ -10,7 +10,6 @@
         <a class="pl-4 transition-transform transform hover:scale-125" href="https://github.com/vt92i" target="_blank" rel="noopener noreferrer">
           <img class="w-8" src="../assets/github.png" />
         </a>
-
         <a class="pl-4 transition-transform transform hover:scale-125" href="https://twitter.com/wtsrz4" target="_blank" rel="noopener noreferrer">
           <img class="w-8" src="../assets/twitter.png" />
         </a>
@@ -31,4 +30,3 @@
     </main>
   </div>
 </template>
-Home | 
